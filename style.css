@@ -1,0 +1,96 @@
+.image{
+    padding-left: 170px!important;
+}
+.btn{
+    background-color: #5fcac7 !important;
+    color: white !important;
+    border-radius :100px !important ;
+    border-color: #5fcac7 !important;
+   
+   
+}
+.kio{
+    width: 10px !important;
+    height: 1px !important;
+}
+.btn9{
+   padding-left: 10px !important;
+   
+}
+.content9{
+     font-weight: 400px !important;
+    color: white  !important;
+    align-content: center !important;
+    padding-left: 150px !important;
+    padding-top: 150px !important;
+}
+.content41{
+     font-weight: 700px !important;
+    color: rgb(0, 0, 0)  !important;
+    align-content: center !important;
+    padding-left: 150px !important;
+    padding-top: 150px !important;
+}
+.content8{
+
+    color: white  !important;
+    align-content: center !important;
+    padding-left: 150px !important;
+    padding-top: 30px !important;
+}
+.content7{
+
+    color: white  !important;
+    align-content: center !important;
+    padding-left: 150px !important;
+    padding-top: 40px !important;
+}
+  
+.item1{
+    background-image: url(./images/item2.jpg) !important;
+    width: 100% !important;
+    height: 1000px !important;
+
+}
+.item2{
+     background-image: url(./images/item3.jpg) !important;
+    width: 100% !important;
+    height: 1000px !important;
+
+}
+.content9 h1{
+ 
+    font-weight: 700 !important;
+     font-size: 80px !important;
+}
+
+
+.icons{
+  
+   background-color: #ffffff !important ;
+}
+.order6{
+    color: #4b4342 !important;
+    line-height: 70px !important;
+    font-size: 3.625rem !important;
+    font-family: DM Sans !important;
+}
+.pie5{
+    color: #4b4342 !important;
+    font-weight: 500 !important;
+    text-align: center !important;
+    font-family: DM Sans !important;
+    font-size: 20px !important;
+}
+#apple0{
+    background-image: url(./images/hello.jpg) !important;
+    padding-top: 90px !important;
+}
+.forever img{
+    width: 200px !important;
+    height: 140px !important;
+     border-radius :10px !important ;
+}
+
+
+  
