@@ -1,3 +1,9 @@
+@font-face {
+    font-family: DM Sans;
+    src: url("./fonts/DMSans-VariableFont_opsz\,wght.ttf");
+}
+
+
 .image{
     padding-left: 170px!important;
 }
@@ -69,6 +75,80 @@
   
    background-color: #ffffff !important ;
 }
+.headf{
+     font-family: DM Sans !important; 
+}
+.content56{
+     font-family: DM Sans !important;
+     font-weight: 400 !important;
+     font-size: 16px !important;
+     line-height:26px !important;
+     width: 62% !important;
+}
+.bgimg{
+    background-image: url(./images/hands.jpg) !important;
+    width: 100% !important;
+     height: 100% !important;
+     background-color:  #ff91a4 !important;
+     
+
+}
+.cake i{
+    font-size: 62px !important;
+}
+.order{
+    border: 2px solid white !important;
+    color: white !important;
+    border-radius: 50px !important;
+    line-height: 50px !important;
+    font-weight: 500 !important;
+    padding: 0px 25px !important;
+    font-size: 18px !important;
+     font-family: DM Sans !important;
+}
+.para{
+     font-family: DM Sans !important;
+     font-weight: 400 !important;
+}
+.icong{
+    background-image: 
+    linear-gradient(   
+      rgba(236, 128, 146, 0.8)
+    ),
+    url("./images/b-image2.jpg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+.eve{
+    font-size: 30px !important;
+    font-weight: 10px !important;
+}
+.order:hover{
+    background-color: white !important;
+    color: #4b4342 !important;   
+}
+.img img{
+    border-radius: 200px !important;
+    width: 130px !important;
+    height: 130px !important;
+}
+.img1 img{
+    border-radius: 200px !important;
+    width: 60px !important;
+    height: 60px !important;
+}
+.imagei{
+    background-image: 
+    linear-gradient(   
+      rgb(95, 202, 199, 0.8)
+    ),
+    url("./images/b-image.jpg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+
 .order6{
     color: #4b4342 !important;
     line-height: 70px !important;
@@ -85,6 +165,12 @@
 #apple0{
     background-image: url(./images/hello.jpg) !important;
     padding-top: 90px !important;
+}
+.cakee{
+    padding: 65px 0px 75px 0px !important;
+    border: 2px solid white;
+    border-radius: 10px !important;
+    width: 60% !important;
 }
 .forever img{
     width: 200px !important;
