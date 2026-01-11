@@ -205,13 +205,13 @@
 .sweet-gap{
     gap: 65px !important;
 }
-.sweet-h2{
+.helicop{
         font-weight: 700 !important;
         font-family: 'DM Sans', sans-serif !important;
     font-size: 3.625rem !important;
     line-height: 70px !important;
 }
-.input-div input{
+.nott input{
         border: 2px solid #ebeaed !important;
     opacity: .4 !important;
     font-weight: 700 !important;
@@ -234,7 +234,7 @@
         letter-spacing: 2px !important;
     font-weight: 500 !important;
 }
-.social-icons{
+.allicons{
         margin-left: 15px !important;
     margin-right: 15px !important;
     width: 40px !important;
@@ -246,11 +246,11 @@
     align-items: center !important;
     transition: all 0.25s ease !important;
 }
-.social-icons:hover{
+.allicons:hover{
     transition: all 0.25s ease !important;
     border-color: white !important;
 }
-.button-div button{
+.divider button{
      border: none !important;
     outline: none !important;
     border-radius: 50px !important;
@@ -265,7 +265,7 @@
 .button-div button:hover{
     background-color: #52ada9 !important;
 }
-.bg-6{
+.blog{
      background-image:
     linear-gradient(
       rgba(150, 140, 137, 0.8)
